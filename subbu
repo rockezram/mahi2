@@ -9,4 +9,11 @@ hello
 hiii akka
 hello
 hiiii
+<<<<<<< HEAD
 hii akka
+=======
+hello
+hiii
+how
+hii akka how are you
+>>>>>>> dev

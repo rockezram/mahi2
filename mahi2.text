@@ -5,5 +5,10 @@ hiiii
 helloooo
 hello
 hiii
+<<<<<<< HEAD
 hiiii akki
+=======
+hiii 
+how are you
+>>>>>>> dev
 hello
