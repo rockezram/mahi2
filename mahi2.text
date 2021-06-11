@@ -3,9 +3,16 @@ hello
 hiii
 hiiii 
 helloooo
+<<<<<<< HEAD
 hello
 hiii
 hiiii akki
 hiii 
 how are you
 hello
+=======
+hiii how are you
+hii
+hello
+hiii how
+>>>>>>> master
